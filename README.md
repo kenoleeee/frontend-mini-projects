@@ -47,7 +47,7 @@ A **café landing page** concept.
 
 ## 🚀 Purpose
 This repository collects all small training projects in one place:  
-- 📖 Learning HTML & CSS basics  
+- 📖 Learning HTML & CSS, JS basics  
 - 🎨 Practicing layouts, animations, and responsive design  
 - 💼 Building a portfolio of mini-projects  
 
